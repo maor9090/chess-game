@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca184f7a-1b67-4bd8-8b1c-20f6cf721512" name="Changes" comment="" />
+    <list default="true" id="ca184f7a-1b67-4bd8-8b1c-20f6cf721512" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aiMoves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bishop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bishop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/King.py" beforeDir="false" afterPath="$PROJECT_DIR$/King.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Knight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pawn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pawn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piece.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piece.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2knIjsYycLnReitPXDtAxDyLH5a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,10 +47,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Functions.executor": "Run",
+    "Python.Pawn.executor": "Debug",
+    "Python.Piece.executor": "Run",
+    "Python.Queen.executor": "Debug",
+    "Python.aiMoves.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/maorh/PycharmProjects/chessProject",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maorh\PycharmProjects\chessProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +81,13 @@
       <updated>1723913052593</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="board[6][2]" language="Python" />
+        <watch expression="move[1]" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
